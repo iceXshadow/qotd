@@ -3,6 +3,7 @@ name: Update Quote of the Day
 on:
   schedule:
     - cron: '0 7 * * *'  # Runs daily at 7 am UTC
+    - cron: '0 19 * * *' # Runs daily at 7 pm UTC
   workflow_dispatch:  # Allows manual triggering
 
 jobs:
