@@ -2,8 +2,7 @@ name: Update Quote of the Day
 # Updated schedule to run at 8 AM and 8 PM IST - refreshed on May 2, 2025
 on:
   schedule:
-    - cron: '30 2 * * *'  # Runs daily at 8 am IST (2:30 UTC)
-    - cron: '30 14 * * *' # Runs daily at 8 pm IST (14:30 UTC)
+    - cron: '09 14 * * *'  # Runs daily at 8 am IST (2:30 UTC)
   workflow_dispatch:  # Allows manual triggering
 jobs:
   update:
