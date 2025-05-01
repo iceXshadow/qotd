@@ -1,9 +1,9 @@
 # Quote of the Day
 
 <!-- QUOTE_START -->
-> If you want to make God laugh, tell him about your plans. 
+> Make no small plans for they have no power to stir the soul.
 >
-> — Woody Allen
+> — Niccolo Machiavelli
 
 Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a>
 <!-- QUOTE_END -->
