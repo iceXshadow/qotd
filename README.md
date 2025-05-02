@@ -1,9 +1,9 @@
 # Quote of the Day
 
 <!-- QUOTE_START -->
-> It is easier to fight for one's principles than to live up to them. 
+> The strength of a wall is neither greater nor less than the courage of the men who defend it. 
 >
-> — Alfred Adler
+> — Genghis Khan
 
 Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a>
 <!-- QUOTE_END -->
