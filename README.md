@@ -1,9 +1,9 @@
 # Quote of the Day
 
 <!-- QUOTE_START -->
-> Every failure brings with it the seed of an equivalent success.
+> It is easier to fight for one's principles than to live up to them. 
 >
-> — Napoleon Hill
+> — Alfred Adler
 
 Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a>
 <!-- QUOTE_END -->
