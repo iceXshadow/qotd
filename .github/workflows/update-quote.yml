@@ -38,8 +38,8 @@ jobs:
           exit 1
       - name: Commit and push changes
         run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git config --global user.name 'iceXshadow'
+          git config --global user.email 'devxicy@gmail.com'
           git add README.md quotes.py
           git commit -m "Update quote of the day" || echo "No changes to commit"
           git push
