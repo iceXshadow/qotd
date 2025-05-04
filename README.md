@@ -1,9 +1,9 @@
 # Quote of the Day
 
 <!-- QUOTE_START -->
-> Every man is guilty of all the good he did not do. 
+> If you chase two rabbits, you catch none.
 >
-> — Voltaire
+> — Confucius
 
 Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a>
 <!-- QUOTE_END -->
