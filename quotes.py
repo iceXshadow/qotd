@@ -1,4 +1,5 @@
 quotes = [
+    "The heart that gives, gathers.",
     "Don't learn to do, but learn in doing.",
     "If you chase two rabbits, you catch none.",
     "Every man is guilty of all the good he did not do. ",
