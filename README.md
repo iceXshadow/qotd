@@ -1,9 +1,9 @@
 # Quote of the Day
 
 <!-- QUOTE_START -->
-> The heart that gives, gathers.
+> Learn to enjoy every minute of your life. Be happy now. Don't wait for something outside of yourself to make you happy in the future.
 >
-> — Lao Tzu
+> — Earl Nightingale
 
 Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a>
 <!-- QUOTE_END -->
