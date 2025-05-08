@@ -1,4 +1,5 @@
 quotes = [
+    "You may think I'm small, but I have a universe inside my mind.",
     "Learn to enjoy every minute of your life. Be happy now. Don't wait for something outside of yourself to make you happy in the future.",
     "The heart that gives, gathers.",
     "Don't learn to do, but learn in doing.",

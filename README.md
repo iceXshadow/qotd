@@ -1,9 +1,9 @@
 # Quote of the Day
 
 <!-- QUOTE_START -->
-> Learn to enjoy every minute of your life. Be happy now. Don't wait for something outside of yourself to make you happy in the future.
+> You may think I'm small, but I have a universe inside my mind.
 >
-> — Earl Nightingale
+> — Yoko Ono
 
 Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a>
 <!-- QUOTE_END -->
