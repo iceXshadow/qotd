@@ -1,9 +1,9 @@
 # Quote of the Day
 
 <!-- QUOTE_START -->
-> You may think I'm small, but I have a universe inside my mind.
+> To arrive at the simplest truth requires years of contemplation.
 >
-> — Yoko Ono
+> — Isaac Newton
 
 Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a>
 <!-- QUOTE_END -->
