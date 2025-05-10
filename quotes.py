@@ -1,4 +1,5 @@
 quotes = [
+    "Many of life's failures are people who did not realize how close they were to success when they gave up.",
     "To arrive at the simplest truth requires years of contemplation.",
     "You may think I'm small, but I have a universe inside my mind.",
     "Learn to enjoy every minute of your life. Be happy now. Don't wait for something outside of yourself to make you happy in the future.",
