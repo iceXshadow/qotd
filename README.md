@@ -1,9 +1,9 @@
 # Quote of the Day
 
 <!-- QUOTE_START -->
-> Many of life's failures are people who did not realize how close they were to success when they gave up.
+> When obstacles arise, you change your direction to reach your goal; you do not change your decision to get there.
 >
-> — Thomas Edison
+> — Zig Ziglar
 
 Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a>
 <!-- QUOTE_END -->

@@ -1,4 +1,5 @@
 quotes = [
+    "When obstacles arise, you change your direction to reach your goal; you do not change your decision to get there.",
     "Many of life's failures are people who did not realize how close they were to success when they gave up.",
     "To arrive at the simplest truth requires years of contemplation.",
     "You may think I'm small, but I have a universe inside my mind.",
