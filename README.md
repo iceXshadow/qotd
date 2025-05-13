@@ -1,9 +1,9 @@
 # Quote of the Day
 
 <!-- QUOTE_START -->
-> Take care of your body. It's the only place you have to live.
+> By changing nothing, nothing changes.
 >
-> — Jim Rohn
+> — Celestine Chua
 
 Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a>
 <!-- QUOTE_END -->
