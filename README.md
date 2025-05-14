@@ -1,9 +1,9 @@
 # Quote of the Day
 
 <!-- QUOTE_START -->
-> By changing nothing, nothing changes.
+> We must create our own world or we will die from inaction.
 >
-> — Celestine Chua
+> — Robert Greene
 
 Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a>
 <!-- QUOTE_END -->
