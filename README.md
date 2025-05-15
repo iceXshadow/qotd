@@ -1,7 +1,7 @@
 # Quote of the Day
 
 <!-- QUOTE_START -->
-> We must create our own world or we will die from inaction.
+> Never whine, never complain, never try to justify yourself.
 >
 > — Robert Greene
 

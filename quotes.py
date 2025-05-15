@@ -1,4 +1,5 @@
 quotes = [
+    "Never whine, never complain, never try to justify yourself.",
     "We must create our own world or we will die from inaction.",
     "By changing nothing, nothing changes.",
     "Take care of your body. It's the only place you have to live.",
