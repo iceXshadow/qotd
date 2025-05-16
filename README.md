@@ -1,9 +1,9 @@
 # Quote of the Day
 
 <!-- QUOTE_START -->
-> Never whine, never complain, never try to justify yourself.
+> Everyone has a sense of humor. If you don't laugh at jokes, you probably laugh at opinions.
 >
-> — Robert Greene
+> — Criss Jami
 
 Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a>
 <!-- QUOTE_END -->
