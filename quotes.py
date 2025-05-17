@@ -1,4 +1,5 @@
 quotes = [
+    "Remain calm. Be kind.",
     "Everyone has a sense of humor. If you don't laugh at jokes, you probably laugh at opinions.",
     "Never whine, never complain, never try to justify yourself.",
     "We must create our own world or we will die from inaction.",

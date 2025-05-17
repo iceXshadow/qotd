@@ -1,9 +1,9 @@
 # Quote of the Day
 
 <!-- QUOTE_START -->
-> Everyone has a sense of humor. If you don't laugh at jokes, you probably laugh at opinions.
+> Remain calm. Be kind.
 >
-> — Criss Jami
+> — Colin Powell
 
 Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a>
 <!-- QUOTE_END -->
