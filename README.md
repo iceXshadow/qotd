@@ -1,9 +1,9 @@
 # Quote of the Day
 
 <!-- QUOTE_START -->
-> Remain calm. Be kind.
+> The decisions of our past are the architects of our present.
 >
-> — Colin Powell
+> — Dan Brown
 
 Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a>
 <!-- QUOTE_END -->

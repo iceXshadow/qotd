@@ -1,4 +1,5 @@
 quotes = [
+    "The decisions of our past are the architects of our present.",
     "Remain calm. Be kind.",
     "Everyone has a sense of humor. If you don't laugh at jokes, you probably laugh at opinions.",
     "Never whine, never complain, never try to justify yourself.",
