@@ -1,9 +1,9 @@
 # Quote of the Day
 
 <!-- QUOTE_START -->
-> The decisions of our past are the architects of our present.
+> Failure is acceptable. Not trying is a whole different ball park.
 >
-> — Dan Brown
+> — Michael Jordan
 
 Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a>
 <!-- QUOTE_END -->
