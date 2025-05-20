@@ -1,9 +1,9 @@
 # Quote of the Day
 
 <!-- QUOTE_START -->
-> Failure is acceptable. Not trying is a whole different ball park.
+> Not doing it is certainly the best way to not getting it.  
 >
-> — Michael Jordan
+> — Wayne Gretzky
 
 Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a>
 <!-- QUOTE_END -->

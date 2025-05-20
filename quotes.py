@@ -1,4 +1,5 @@
 quotes = [
+    "Not doing it is certainly the best way to not getting it.  ",
     "Failure is acceptable. Not trying is a whole different ball park.",
     "The decisions of our past are the architects of our present.",
     "Remain calm. Be kind.",
