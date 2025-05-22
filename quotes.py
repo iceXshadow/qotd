@@ -1,4 +1,5 @@
 quotes = [
+    "The fear of death is more to be feared, than death itself.",
     "The soul should always stand ajar, ready to welcome the ecstatic experience.",
     "Not doing it is certainly the best way to not getting it.  ",
     "Failure is acceptable. Not trying is a whole different ball park.",

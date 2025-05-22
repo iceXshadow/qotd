@@ -1,9 +1,9 @@
 # Quote of the Day
 
 <!-- QUOTE_START -->
-> The soul should always stand ajar, ready to welcome the ecstatic experience.
+> The fear of death is more to be feared, than death itself.
 >
-> — Emily Dickinson
+> — Publilius Syrus
 
 Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a>
 <!-- QUOTE_END -->
