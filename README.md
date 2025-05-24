@@ -1,9 +1,9 @@
 # Quote of the Day
 
 <!-- QUOTE_START -->
-> We meet ourselves time and again in a thousand disguises on the path of life.
+> The fear of death is more to be feared, than death itself.
 >
-> — Carl Jung
+> — Publilius Syrus
 
 Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a>
 <!-- QUOTE_END -->

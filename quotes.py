@@ -1,4 +1,5 @@
 quotes = [
+    "The fear of death is more to be feared, than death itself.",
     "We meet ourselves time and again in a thousand disguises on the path of life.",
     "The fear of death is more to be feared, than death itself.",
     "The soul should always stand ajar, ready to welcome the ecstatic experience.",
