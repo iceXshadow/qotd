@@ -1,4 +1,5 @@
 quotes = [
+    "There is no value in anything until it is finished. ",
     "Argue for your limitations and sure enough, they're yours.",
     "The fear of death is more to be feared, than death itself.",
     "We meet ourselves time and again in a thousand disguises on the path of life.",
