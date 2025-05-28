@@ -1,9 +1,9 @@
 # Quote of the Day
 
 <!-- QUOTE_START -->
-> To live outside the law, you must be honest. 
+> If you love life, don't waste time, for time is what life is made up of. 
 >
-> — Bob Dylan
+> — Bruce Lee
 
 Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a>
 <!-- QUOTE_END -->

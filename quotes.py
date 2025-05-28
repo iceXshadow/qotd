@@ -1,4 +1,5 @@
 quotes = [
+    "If you love life, don't waste time, for time is what life is made up of. ",
     "To live outside the law, you must be honest. ",
     "There is no value in anything until it is finished. ",
     "Argue for your limitations and sure enough, they're yours.",
