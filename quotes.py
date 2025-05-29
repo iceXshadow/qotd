@@ -1,4 +1,5 @@
 quotes = [
+    "A person without a sense of humor is like a wagon without springs, jolted by every pebble in the road.",
     "If you love life, don't waste time, for time is what life is made up of. ",
     "To live outside the law, you must be honest. ",
     "There is no value in anything until it is finished. ",

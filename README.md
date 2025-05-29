@@ -1,9 +1,9 @@
 # Quote of the Day
 
 <!-- QUOTE_START -->
-> If you love life, don't waste time, for time is what life is made up of. 
+> A person without a sense of humor is like a wagon without springs, jolted by every pebble in the road.
 >
-> — Bruce Lee
+> — Henry Ward Beecher
 
 Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a>
 <!-- QUOTE_END -->
