@@ -1,4 +1,5 @@
 quotes = [
+    "What's the point in being smart enough to read, if everything you read makes you dumb?",
     "Never give up work. Work gives you meaning and purpose and life is empty without it.",
     "A person without a sense of humor is like a wagon without springs, jolted by every pebble in the road.",
     "If you love life, don't waste time, for time is what life is made up of. ",
