@@ -1,9 +1,9 @@
 # Quote of the Day
 
 <!-- QUOTE_START -->
-> What's the point in being smart enough to read, if everything you read makes you dumb?
+> You cannot always control what goes on outside. But you can always control what goes on inside. 
 >
-> — C. Sean McGee
+> — Wayne Dyer
 
 Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a>
 <!-- QUOTE_END -->
