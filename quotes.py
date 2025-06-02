@@ -1,4 +1,5 @@
 quotes = [
+    "Life and the simple beauty of it is too good to pass up.",
     "You cannot always control what goes on outside. But you can always control what goes on inside. ",
     "What's the point in being smart enough to read, if everything you read makes you dumb?",
     "Never give up work. Work gives you meaning and purpose and life is empty without it.",
