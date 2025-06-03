@@ -1,4 +1,5 @@
 quotes = [
+    "If it entertains you now but will bore you someday, it's a distraction. Keep looking.",
     "Life and the simple beauty of it is too good to pass up.",
     "You cannot always control what goes on outside. But you can always control what goes on inside. ",
     "What's the point in being smart enough to read, if everything you read makes you dumb?",
