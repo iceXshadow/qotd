@@ -1,9 +1,9 @@
 # Quote of the Day
 
 <!-- QUOTE_START -->
-> If it entertains you now but will bore you someday, it's a distraction. Keep looking.
+> Confidence is like a dragon where, for every head cut off, two more heads grow back.
 >
-> — Naval Ravikant
+> — Criss Jami
 
 Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a>
 <!-- QUOTE_END -->
