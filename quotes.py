@@ -1,4 +1,5 @@
 quotes = [
+    "Heaven is right where you are standing.",
     "Have the fearless attitude of a hero and the loving heart of a child.",
     "Confidence is like a dragon where, for every head cut off, two more heads grow back.",
     "If it entertains you now but will bore you someday, it's a distraction. Keep looking.",
