@@ -1,4 +1,5 @@
 quotes = [
+    "Things may come to those who wait, but only the things left by those who hustle.",
     "Heaven is right where you are standing.",
     "Have the fearless attitude of a hero and the loving heart of a child.",
     "Confidence is like a dragon where, for every head cut off, two more heads grow back.",

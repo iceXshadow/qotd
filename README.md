@@ -1,9 +1,9 @@
 # Quote of the Day
 
 <!-- QUOTE_START -->
-> Heaven is right where you are standing.
+> Things may come to those who wait, but only the things left by those who hustle.
 >
-> — Morihei Ueshiba
+> — Abraham Lincoln
 
 Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a>
 <!-- QUOTE_END -->
