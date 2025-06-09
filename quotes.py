@@ -1,4 +1,5 @@
 quotes = [
+    "The enemy is a very good teacher.",
     "Wit is educated insolence.",
     "Things may come to those who wait, but only the things left by those who hustle.",
     "Heaven is right where you are standing.",
