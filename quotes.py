@@ -1,4 +1,5 @@
 quotes = [
+    "Be thankful for everything that happens in your life; it's all an experience.",
     "The enemy is a very good teacher.",
     "Wit is educated insolence.",
     "Things may come to those who wait, but only the things left by those who hustle.",
