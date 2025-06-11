@@ -1,4 +1,5 @@
 quotes = [
+    "Believe and you're halfway there.",
     "Be thankful for everything that happens in your life; it's all an experience.",
     "The enemy is a very good teacher.",
     "Wit is educated insolence.",

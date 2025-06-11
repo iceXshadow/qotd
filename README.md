@@ -1,9 +1,9 @@
 # Quote of the Day
 
 <!-- QUOTE_START -->
-> Be thankful for everything that happens in your life; it's all an experience.
+> Believe and you're halfway there.
 >
-> — Roy T. Bennett
+> — Harry S. Truman
 
 Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a>
 <!-- QUOTE_END -->
