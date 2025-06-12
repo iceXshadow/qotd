@@ -1,9 +1,9 @@
 # Quote of the Day
 
 <!-- QUOTE_START -->
-> Believe and you're halfway there.
+> Wherever you are is the entry point.
 >
-> — Harry S. Truman
+> — Kabir
 
 Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a>
 <!-- QUOTE_END -->
