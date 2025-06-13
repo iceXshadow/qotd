@@ -1,9 +1,9 @@
 # Quote of the Day
 
 <!-- QUOTE_START -->
-> Wherever you are is the entry point.
+> The only people without problems are those in cemeteries.
 >
-> — Kabir
+> — Tony Robbins
 
 Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a>
 <!-- QUOTE_END -->

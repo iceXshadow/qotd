@@ -1,4 +1,5 @@
 quotes = [
+    "The only people without problems are those in cemeteries.",
     "Wherever you are is the entry point.",
     "Believe and you're halfway there.",
     "Be thankful for everything that happens in your life; it's all an experience.",
