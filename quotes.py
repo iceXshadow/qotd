@@ -1,4 +1,5 @@
 quotes = [
+    "The greater the impact you want to make, the greater your influence needs to be.",
     "The only people without problems are those in cemeteries.",
     "Wherever you are is the entry point.",
     "Believe and you're halfway there.",
