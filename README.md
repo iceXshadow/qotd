@@ -1,9 +1,9 @@
 # Quote of the Day
 
 <!-- QUOTE_START -->
-> The greater the impact you want to make, the greater your influence needs to be.
+> No one returns from a long journey the same person they were before.
 >
-> — Lolly Daskal
+> — Zen Proverb
 
 Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a>
 <!-- QUOTE_END -->
