@@ -1,9 +1,9 @@
 # Quote of the Day
 
 <!-- QUOTE_START -->
-> He who leaves the game wins it.
+> Life's too mysterious to take too serious.
 >
-> — Nicolas Chamfort
+> — Mary Engelbreit
 
 Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a>
 <!-- QUOTE_END -->

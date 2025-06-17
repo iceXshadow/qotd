@@ -1,4 +1,5 @@
 quotes = [
+    "Life's too mysterious to take too serious.",
     "He who leaves the game wins it.",
     "No one returns from a long journey the same person they were before.",
     "The greater the impact you want to make, the greater your influence needs to be.",
