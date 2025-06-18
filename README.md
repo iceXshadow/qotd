@@ -1,9 +1,9 @@
 # Quote of the Day
 
 <!-- QUOTE_START -->
-> Life's too mysterious to take too serious.
+> Freedom is the only worthy goal in life. It is won by disregarding things that lie beyond our control.
 >
-> — Mary Engelbreit
+> — Epictetus
 
 Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a>
 <!-- QUOTE_END -->

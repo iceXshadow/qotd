@@ -1,4 +1,5 @@
 quotes = [
+    "Freedom is the only worthy goal in life. It is won by disregarding things that lie beyond our control.",
     "Life's too mysterious to take too serious.",
     "He who leaves the game wins it.",
     "No one returns from a long journey the same person they were before.",
