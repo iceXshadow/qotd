@@ -1,9 +1,9 @@
 # Quote of the Day
 
 <!-- QUOTE_START -->
-> There can be no greater gift than that of giving one's time and energy to help others without expecting anything in return.
+> Everyone thinks of changing the world, but no one thinks of changing himself.
 >
-> — Nelson Mandela
+> — Leo Tolstoy
 
 Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a>
 <!-- QUOTE_END -->

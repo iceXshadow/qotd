@@ -1,4 +1,5 @@
 quotes = [
+    "Everyone thinks of changing the world, but no one thinks of changing himself.",
     "There can be no greater gift than that of giving one's time and energy to help others without expecting anything in return.",
     "Don't blame others. it won't make you a better person.",
     "He who possesses most must be most afraid of loss.",
