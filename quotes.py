@@ -1,4 +1,5 @@
 quotes = [
+    "What do we live for, if it is not to make life less difficult for each other?",
     "If you can't, you must. If you must, you can.",
     "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. ",
     "Yesterday is gone. Tomorrow has not yet come. We have only today.",
