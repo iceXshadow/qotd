@@ -1,9 +1,9 @@
 # Quote of the Day
 
 <!-- QUOTE_START -->
-> We are most nearly ourselves when we achieve the seriousness of the child at play.
+> It's possible in ways both large or small to make a difference in someone's life.
 >
-> — Heraclitus
+> — Yanni
 
 Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a>
 <!-- QUOTE_END -->
