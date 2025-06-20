@@ -1,4 +1,5 @@
 quotes = [
+    "Don't blame others. it won't make you a better person.",
     "He who possesses most must be most afraid of loss.",
     "It's possible in ways both large or small to make a difference in someone's life.",
     "We are most nearly ourselves when we achieve the seriousness of the child at play.",

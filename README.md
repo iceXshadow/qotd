@@ -1,9 +1,9 @@
 # Quote of the Day
 
 <!-- QUOTE_START -->
-> He who possesses most must be most afraid of loss.
+> Don't blame others. it won't make you a better person.
 >
-> — Leonardo da Vinci
+> — Lolly Daskal
 
 Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a>
 <!-- QUOTE_END -->
