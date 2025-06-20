@@ -1,4 +1,5 @@
 quotes = [
+    "Success is the progressive realization of a worthy goal or ideal.",
     "Those who know, do. Those that understand, teach.",
     "It is those who concentrate on but one thing at a time who advance in this world.",
     "It is not the knowing that is difficult, but the doing. ",
