@@ -1,4 +1,5 @@
 quotes = [
+    "A man sooner or later discovers that he is the master-gardener of his soul, the director of his life.",
     "If you read a lot of books, you're considered well-read. But if you watch a lot of TV, you're not considered well-viewed.",
     "Everyone thinks of changing the world, but no one thinks of changing himself.",
     "There can be no greater gift than that of giving one's time and energy to help others without expecting anything in return.",

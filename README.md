@@ -1,9 +1,9 @@
 # Quote of the Day
 
 <!-- QUOTE_START -->
-> If you read a lot of books, you're considered well-read. But if you watch a lot of TV, you're not considered well-viewed.
+> A man sooner or later discovers that he is the master-gardener of his soul, the director of his life.
 >
-> — Lily Tomlin
+> — James Allen
 
 Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a>
 <!-- QUOTE_END -->
