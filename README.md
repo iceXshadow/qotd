@@ -1,9 +1,9 @@
 # Quote of the Day
 
 <!-- QUOTE_START -->
-> A man sooner or later discovers that he is the master-gardener of his soul, the director of his life.
+> Determine never to be idle. No person will have occasion to complain of the want of time who never loses any.
 >
-> — James Allen
+> — Thomas Jefferson
 
 Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a>
 <!-- QUOTE_END -->
