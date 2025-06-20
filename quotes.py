@@ -1,4 +1,5 @@
 quotes = [
+    "Never let your memories be greater than your dreams.",
     "Success is the progressive realization of a worthy goal or ideal.",
     "Those who know, do. Those that understand, teach.",
     "It is those who concentrate on but one thing at a time who advance in this world.",
