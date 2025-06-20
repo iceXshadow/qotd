@@ -1,4 +1,5 @@
 quotes = [
+    "It is those who concentrate on but one thing at a time who advance in this world.",
     "It is not the knowing that is difficult, but the doing. ",
     "Freedom is the only worthy goal in life. It is won by disregarding things that lie beyond our control.",
     "Life's too mysterious to take too serious.",
