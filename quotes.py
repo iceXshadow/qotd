@@ -1,4 +1,5 @@
 quotes = [
+    "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. ",
     "Yesterday is gone. Tomorrow has not yet come. We have only today.",
     "We are all like the bright moon, we still have our darker side.  ",
     "Superstars think like superstars long before the fans or the press anoint them.",
