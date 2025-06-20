@@ -1,4 +1,5 @@
 quotes = [
+    "Hope is important because it can make the present moment less difficult to bear. If we believe that tomorrow will be better, we can bear a hardship today.",
     "When something is important enough, you do it even if the odds are not in your favor.",
     "Turn the pain into power.",
     "Cultivate the merry heart, develop the happiness habit, and life will become a continual feast.",
