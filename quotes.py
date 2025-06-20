@@ -1,4 +1,5 @@
 quotes = [
+    "When something is important enough, you do it even if the odds are not in your favor.",
     "Turn the pain into power.",
     "Cultivate the merry heart, develop the happiness habit, and life will become a continual feast.",
     "It is better to disappoint people with the truth than to appease them with a lie.",

@@ -1,9 +1,9 @@
 # Quote of the Day
 
 <!-- QUOTE_START -->
-> Turn the pain into power.
+> When something is important enough, you do it even if the odds are not in your favor.
 >
-> — Unknown
+> — Elon Musk
 
 Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a>
 <!-- QUOTE_END -->
