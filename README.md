@@ -1,9 +1,9 @@
 # Quote of the Day
 
 <!-- QUOTE_START -->
-> It is best to begin at the beginning.
+> Action may not always bring happiness, but there is no happiness without action.
 >
-> — Amelia Earhart
+> — William James
 
 Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a>
 <!-- QUOTE_END -->
