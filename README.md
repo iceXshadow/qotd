@@ -1,9 +1,9 @@
 # Quote of the Day
 
 <!-- QUOTE_START -->
-> There is a difference between giving directions and giving direction.
+> Circumstances do not make the man, they reveal him.
 >
-> — Simon Sinek
+> — James Allen
 
 Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a>
 <!-- QUOTE_END -->
