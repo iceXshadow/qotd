@@ -1,8 +1,8 @@
 name: Update Quote of the Day
-# Updated schedule to run at 8 AM and 8 PM IST - refreshed on May 2, 2025
+# Updated schedule to run every minute - refreshed on June 20, 2025
 on:
   schedule:
-    - cron: '0 0 * * *'  # 8:00 AM IST
+    - cron: '*/7 * * * *'  # Every minute
   workflow_dispatch:  # Allows manual triggering
 jobs:
   update:
@@ -10,16 +10,20 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
+
       - name: Set up Bun
         uses: oven-sh/setup-bun@v1
         with:
           bun-version: latest
+
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.x'
+
       - name: Install dependencies
         run: bun run pip install requests
+
       - name: Update quote
         id: update_quote
         env:
@@ -36,6 +40,7 @@ jobs:
           done
           echo "All attempts failed"
           exit 1
+
       - name: Commit and push changes
         run: |
           git config --global user.name 'iceXshadow'
