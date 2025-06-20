@@ -1,4 +1,5 @@
 quotes = [
+    "The salvation of the world lies in the human heart.",
     "Luck is a matter of preparation meeting opportunity.",
     "The future is no more uncertain than the present.",
     "What do we live for, if it is not to make life less difficult for each other?",
