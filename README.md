@@ -1,9 +1,9 @@
 # Quote of the Day
 
 <!-- QUOTE_START -->
-> It is better to disappoint people with the truth than to appease them with a lie.
+> Cultivate the merry heart, develop the happiness habit, and life will become a continual feast.
 >
-> — Simon Sinek
+> — Norman Vincent Peale
 
 Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a>
 <!-- QUOTE_END -->
