@@ -1,4 +1,5 @@
 quotes = [
+    "We are most nearly ourselves when we achieve the seriousness of the child at play.",
     "Maybe you are searching among the branches, for what only appears in the roots.",
     "The salvation of the world lies in the human heart.",
     "Luck is a matter of preparation meeting opportunity.",
