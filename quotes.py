@@ -1,4 +1,5 @@
 quotes = [
+    "Maybe you are searching among the branches, for what only appears in the roots.",
     "The salvation of the world lies in the human heart.",
     "Luck is a matter of preparation meeting opportunity.",
     "The future is no more uncertain than the present.",
