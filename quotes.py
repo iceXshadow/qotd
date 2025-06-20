@@ -1,4 +1,5 @@
 quotes = [
+    "There is a difference between giving directions and giving direction.",
     "The world only exists in your eyes. You can make it as big or as small as you want.",
     "What the mind can conceive, it can achieve.",
     "Action may not always bring happiness, but there is no happiness without action.",
