@@ -1,4 +1,5 @@
 quotes = [
+    "Turn the pain into power.",
     "Cultivate the merry heart, develop the happiness habit, and life will become a continual feast.",
     "It is better to disappoint people with the truth than to appease them with a lie.",
     "Focus on how far you have come in life rather than looking at the accomplishments of others.",
