@@ -1,9 +1,9 @@
 # Quote of the Day
 
 <!-- QUOTE_START -->
-> Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. 
+> If you can't, you must. If you must, you can.
 >
-> — Steve Jobs
+> — Tony Robbins
 
 Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a>
 <!-- QUOTE_END -->
