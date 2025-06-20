@@ -1,4 +1,5 @@
 quotes = [
+    "Focus on how far you have come in life rather than looking at the accomplishments of others.",
     "Determine never to be idle. No person will have occasion to complain of the want of time who never loses any.",
     "A man sooner or later discovers that he is the master-gardener of his soul, the director of his life.",
     "If you read a lot of books, you're considered well-read. But if you watch a lot of TV, you're not considered well-viewed.",
