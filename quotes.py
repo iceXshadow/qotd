@@ -1,4 +1,5 @@
 quotes = [
+    "Leadership starts at the top.",
     "Circumstances do not make the man, they reveal him.",
     "There is a difference between giving directions and giving direction.",
     "The world only exists in your eyes. You can make it as big or as small as you want.",
