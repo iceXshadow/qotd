@@ -2,7 +2,7 @@ name: Update Quote of the Day
 # Updated schedule to run every minute - refreshed on June 20, 2025
 on:
   schedule:
-    - cron: '*/7 * * * *'  # Every minute
+    - cron: '0 0 * * *'  # Every minute
   workflow_dispatch:  # Allows manual triggering
 jobs:
   update:
