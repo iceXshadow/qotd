@@ -1,4 +1,5 @@
 quotes = [
+    "He who possesses most must be most afraid of loss.",
     "It's possible in ways both large or small to make a difference in someone's life.",
     "We are most nearly ourselves when we achieve the seriousness of the child at play.",
     "Maybe you are searching among the branches, for what only appears in the roots.",
