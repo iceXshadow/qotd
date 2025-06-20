@@ -1,9 +1,9 @@
 # Quote of the Day
 
 <!-- QUOTE_START -->
-> What the mind can conceive, it can achieve.
+> The world only exists in your eyes. You can make it as big or as small as you want.
 >
-> — Napoleon Hill
+> — F. Scott Fitzgerald
 
 Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a>
 <!-- QUOTE_END -->
