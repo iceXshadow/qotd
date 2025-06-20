@@ -1,4 +1,5 @@
 quotes = [
+    "It is better to disappoint people with the truth than to appease them with a lie.",
     "Focus on how far you have come in life rather than looking at the accomplishments of others.",
     "Determine never to be idle. No person will have occasion to complain of the want of time who never loses any.",
     "A man sooner or later discovers that he is the master-gardener of his soul, the director of his life.",
