@@ -1,9 +1,9 @@
 # Quote of the Day
 
 <!-- QUOTE_START -->
-> Never let your memories be greater than your dreams.
+> The guest will judge better of a feast than the cook.
 >
-> — Doug Ivester
+> — Aristotle
 
 Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a>
 <!-- QUOTE_END -->
