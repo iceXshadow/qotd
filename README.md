@@ -1,9 +1,9 @@
 # Quote of the Day
 
 <!-- QUOTE_START -->
-> The guest will judge better of a feast than the cook.
+> If ever you feel like an animal among men, be a lion.
 >
-> — Aristotle
+> — Criss Jami
 
 Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a>
 <!-- QUOTE_END -->
