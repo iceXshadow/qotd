@@ -1,4 +1,5 @@
 quotes = [
+    "To be totally at leisure for one day is to be immortal for one day. ",
     "Leadership starts at the top.",
     "Circumstances do not make the man, they reveal him.",
     "There is a difference between giving directions and giving direction.",

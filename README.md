@@ -1,9 +1,9 @@
 # Quote of the Day
 
 <!-- QUOTE_START -->
-> Leadership starts at the top.
+> To be totally at leisure for one day is to be immortal for one day. 
 >
-> — Morgan Wootten
+> — Chinese Proverb
 
 Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a>
 <!-- QUOTE_END -->
