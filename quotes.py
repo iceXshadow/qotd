@@ -1,4 +1,5 @@
 quotes = [
+    "We are all like the bright moon, we still have our darker side.  ",
     "Superstars think like superstars long before the fans or the press anoint them.",
     "To be totally at leisure for one day is to be immortal for one day. ",
     "Leadership starts at the top.",

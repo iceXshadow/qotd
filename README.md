@@ -1,9 +1,9 @@
 # Quote of the Day
 
 <!-- QUOTE_START -->
-> Superstars think like superstars long before the fans or the press anoint them.
+> We are all like the bright moon, we still have our darker side.  
 >
-> — John Eliot
+> — Kahlil Gibran
 
 Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a>
 <!-- QUOTE_END -->
