@@ -1,4 +1,5 @@
 quotes = [
+    "It is best to begin at the beginning.",
     "The purpose of life is to contribute in some way to making things better.",
     "What you seek is seeking you.",
     "If ever you feel like an animal among men, be a lion.",

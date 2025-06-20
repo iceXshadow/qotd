@@ -1,9 +1,9 @@
 # Quote of the Day
 
 <!-- QUOTE_START -->
-> The purpose of life is to contribute in some way to making things better.
+> It is best to begin at the beginning.
 >
-> — Robert F. Kennedy
+> — Amelia Earhart
 
 Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a>
 <!-- QUOTE_END -->
