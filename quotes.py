@@ -1,4 +1,5 @@
 quotes = [
+    "What you seek is seeking you.",
     "If ever you feel like an animal among men, be a lion.",
     "The guest will judge better of a feast than the cook.",
     "Never let your memories be greater than your dreams.",

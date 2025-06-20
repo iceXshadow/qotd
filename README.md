@@ -1,9 +1,9 @@
 # Quote of the Day
 
 <!-- QUOTE_START -->
-> If ever you feel like an animal among men, be a lion.
+> What you seek is seeking you.
 >
-> — Criss Jami
+> — Rumi
 
 Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a>
 <!-- QUOTE_END -->
