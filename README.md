@@ -1,9 +1,9 @@
 # Quote of the Day
 
 <!-- QUOTE_START -->
-> We are all like the bright moon, we still have our darker side.  
+> Yesterday is gone. Tomorrow has not yet come. We have only today.
 >
-> — Kahlil Gibran
+> — Mother Teresa
 
 Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a>
 <!-- QUOTE_END -->
