@@ -1,9 +1,9 @@
 # Quote of the Day
 
 <!-- QUOTE_START -->
-> What you seek is seeking you.
+> The purpose of life is to contribute in some way to making things better.
 >
-> — Rumi
+> — Robert F. Kennedy
 
 Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a>
 <!-- QUOTE_END -->
