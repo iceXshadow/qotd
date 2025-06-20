@@ -1,4 +1,5 @@
 quotes = [
+    "What the mind can conceive, it can achieve.",
     "Action may not always bring happiness, but there is no happiness without action.",
     "It is best to begin at the beginning.",
     "The purpose of life is to contribute in some way to making things better.",
