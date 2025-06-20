@@ -1,4 +1,5 @@
 quotes = [
+    "Luck is a matter of preparation meeting opportunity.",
     "The future is no more uncertain than the present.",
     "What do we live for, if it is not to make life less difficult for each other?",
     "If you can't, you must. If you must, you can.",

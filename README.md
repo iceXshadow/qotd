@@ -1,9 +1,9 @@
 # Quote of the Day
 
 <!-- QUOTE_START -->
-> The future is no more uncertain than the present.
+> Luck is a matter of preparation meeting opportunity.
 >
-> — Walt Whitman
+> — Oprah Winfrey
 
 Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a>
 <!-- QUOTE_END -->
