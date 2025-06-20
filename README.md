@@ -1,9 +1,9 @@
 # Quote of the Day
 
 <!-- QUOTE_START -->
-> Everyone thinks of changing the world, but no one thinks of changing himself.
+> If you read a lot of books, you're considered well-read. But if you watch a lot of TV, you're not considered well-viewed.
 >
-> — Leo Tolstoy
+> — Lily Tomlin
 
 Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a>
 <!-- QUOTE_END -->
