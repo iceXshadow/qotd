@@ -1,9 +1,9 @@
 # Quote of the Day
 
 <!-- QUOTE_START -->
-> Hope is important because it can make the present moment less difficult to bear. If we believe that tomorrow will be better, we can bear a hardship today.
+> When at last you are come to the ocean of happiness, do not go back thirsty.
 >
-> — Thich Nhat Hanh
+> — Kabir
 
 Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a>
 <!-- QUOTE_END -->
