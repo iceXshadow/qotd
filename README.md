@@ -1,9 +1,9 @@
 # Quote of the Day
 
 <!-- QUOTE_START -->
-> Fools read fast. Geniuses reread.
+> It is better to disappoint people with the truth than to appease them with a lie.
 >
-> — Maxime Lagace
+> — Simon Sinek
 
 Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a>
 <!-- QUOTE_END -->

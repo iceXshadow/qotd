@@ -1,4 +1,5 @@
 quotes = [
+    "It is better to disappoint people with the truth than to appease them with a lie.",
     "Fools read fast. Geniuses reread.",
     "When at last you are come to the ocean of happiness, do not go back thirsty.",
     "Hope is important because it can make the present moment less difficult to bear. If we believe that tomorrow will be better, we can bear a hardship today.",
