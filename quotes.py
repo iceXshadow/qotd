@@ -1,4 +1,5 @@
 quotes = [
+    "The more acquaintances you have, the less you know them.",
     "It is better to disappoint people with the truth than to appease them with a lie.",
     "Fools read fast. Geniuses reread.",
     "When at last you are come to the ocean of happiness, do not go back thirsty.",
