@@ -1,4 +1,5 @@
 quotes = [
+    "It's better to dance than to march through life.",
     "The more acquaintances you have, the less you know them.",
     "It is better to disappoint people with the truth than to appease them with a lie.",
     "Fools read fast. Geniuses reread.",
