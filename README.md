@@ -1,9 +1,9 @@
 # Quote of the Day
 
 <!-- QUOTE_START -->
-> It's better to dance than to march through life.
+> No man is happy unless he believes he is.
 >
-> — Yoko Ono
+> — Publilius Syrus
 
 Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a>
 <!-- QUOTE_END -->
