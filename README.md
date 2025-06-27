@@ -1,9 +1,9 @@
 # Quote of the Day
 
 <!-- QUOTE_START -->
-> No man is happy unless he believes he is.
+> He who possesses most must be most afraid of loss.
 >
-> — Publilius Syrus
+> — Leonardo da Vinci
 
 Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a>
 <!-- QUOTE_END -->

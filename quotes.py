@@ -1,4 +1,5 @@
 quotes = [
+    "He who possesses most must be most afraid of loss.",
     "No man is happy unless he believes he is.",
     "It's better to dance than to march through life.",
     "The more acquaintances you have, the less you know them.",
