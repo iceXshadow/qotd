@@ -1,9 +1,9 @@
 # Quote of the Day
 
 <!-- QUOTE_START -->
-> He who possesses most must be most afraid of loss.
+> The journey, not the destination matters.
 >
-> — Leonardo da Vinci
+> — T.S. Eliot
 
 Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a>
 <!-- QUOTE_END -->
