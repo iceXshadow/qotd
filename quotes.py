@@ -1,4 +1,5 @@
 quotes = [
+    "Act the way you want to be and soon you'll be the way you act.",
     "The journey, not the destination matters.",
     "He who possesses most must be most afraid of loss.",
     "No man is happy unless he believes he is.",
