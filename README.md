@@ -1,9 +1,9 @@
 # Quote of the Day
 
 <!-- QUOTE_START -->
-> Not all those who wander are lost.
+> The greater the impact you want to make, the greater your influence needs to be.
 >
-> — J.R.R. Tolkien
+> — Lolly Daskal
 
 Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a>
 <!-- QUOTE_END -->

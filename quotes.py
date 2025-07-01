@@ -1,4 +1,5 @@
 quotes = [
+    "The greater the impact you want to make, the greater your influence needs to be.",
     "Not all those who wander are lost.",
     "Act the way you want to be and soon you'll be the way you act.",
     "The journey, not the destination matters.",
