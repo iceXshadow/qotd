@@ -1,9 +1,9 @@
 # Quote of the Day
 
 <!-- QUOTE_START -->
-> The greater the impact you want to make, the greater your influence needs to be.
+> Be patient and calm; no one can catch fish in anger.
 >
-> — Lolly Daskal
+> — Herbert Hoover
 
 Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a>
 <!-- QUOTE_END -->
