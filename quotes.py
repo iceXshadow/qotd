@@ -1,4 +1,5 @@
 quotes = [
+    "Always turn a negative situation into a positive situation.",
     "Be patient and calm; no one can catch fish in anger.",
     "The greater the impact you want to make, the greater your influence needs to be.",
     "Not all those who wander are lost.",
