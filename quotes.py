@@ -1,4 +1,5 @@
 quotes = [
+    "Others can stop you temporarily - you are the only one who can do it permanently.",
     "Always turn a negative situation into a positive situation.",
     "Be patient and calm; no one can catch fish in anger.",
     "The greater the impact you want to make, the greater your influence needs to be.",

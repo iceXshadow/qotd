@@ -1,9 +1,9 @@
 # Quote of the Day
 
 <!-- QUOTE_START -->
-> Always turn a negative situation into a positive situation.
+> Others can stop you temporarily - you are the only one who can do it permanently.
 >
-> — Michael Jordan
+> — Zig Ziglar
 
 Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a>
 <!-- QUOTE_END -->
