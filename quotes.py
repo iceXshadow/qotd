@@ -1,4 +1,5 @@
 quotes = [
+    "Don't settle, and don't struggle.",
     "Others can stop you temporarily - you are the only one who can do it permanently.",
     "Always turn a negative situation into a positive situation.",
     "Be patient and calm; no one can catch fish in anger.",

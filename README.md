@@ -1,9 +1,9 @@
 # Quote of the Day
 
 <!-- QUOTE_START -->
-> Others can stop you temporarily - you are the only one who can do it permanently.
+> Don't settle, and don't struggle.
 >
-> — Zig Ziglar
+> — Naval Ravikant
 
 Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a>
 <!-- QUOTE_END -->
