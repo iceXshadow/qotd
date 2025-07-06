@@ -1,4 +1,5 @@
 quotes = [
+    "Fear of death is fear of surrender to Infinity. Learn to surrender, to exist at Infinity while alive, and fear of death dissolves.",
     "Don't settle, and don't struggle.",
     "Others can stop you temporarily - you are the only one who can do it permanently.",
     "Always turn a negative situation into a positive situation.",
