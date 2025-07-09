@@ -1,9 +1,9 @@
 # Quote of the Day
 
 <!-- QUOTE_START -->
-> A good stance and posture reflect a proper state of mind.
+> Not doing it is certainly the best way to not getting it.  
 >
-> — Morihei Ueshiba
+> — Wayne Gretzky
 
 Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a>
 <!-- QUOTE_END -->

@@ -1,4 +1,5 @@
 quotes = [
+    "Not doing it is certainly the best way to not getting it.  ",
     "A good stance and posture reflect a proper state of mind.",
     "The first rule of business; treat others like they want to treat you.",
     "Fear of death is fear of surrender to Infinity. Learn to surrender, to exist at Infinity while alive, and fear of death dissolves.",
