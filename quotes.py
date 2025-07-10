@@ -1,4 +1,5 @@
 quotes = [
+    "If you pick up a starving dog and make him prosperous he will not bite you. This is the principal difference between a dog and man.",
     "Not doing it is certainly the best way to not getting it.  ",
     "A good stance and posture reflect a proper state of mind.",
     "The first rule of business; treat others like they want to treat you.",

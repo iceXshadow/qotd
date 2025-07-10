@@ -1,9 +1,9 @@
 # Quote of the Day
 
 <!-- QUOTE_START -->
-> Not doing it is certainly the best way to not getting it.  
+> If you pick up a starving dog and make him prosperous he will not bite you. This is the principal difference between a dog and man.
 >
-> — Wayne Gretzky
+> — Mark Twain
 
 Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a>
 <!-- QUOTE_END -->
