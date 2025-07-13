@@ -1,9 +1,9 @@
 # Quote of the Day
 
 <!-- QUOTE_START -->
-> We must learn to live together as brothers or perish together as fools.
+> Weeds are flowers too, once you get to know them.
 >
-> — Martin Luther King, Jr.
+> — A.A. Milne
 
 Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a>
 <!-- QUOTE_END -->
