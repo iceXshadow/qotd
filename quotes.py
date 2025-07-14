@@ -1,4 +1,5 @@
 quotes = [
+    "Not all those who wander are lost.",
     "Weeds are flowers too, once you get to know them.",
     "We must learn to live together as brothers or perish together as fools.",
     "Great minds are always feared by lesser minds.",
