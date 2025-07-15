@@ -1,4 +1,5 @@
 quotes = [
+    "Don't listen to the person who has the answers; listen to the person who has the questions.",
     "Not all those who wander are lost.",
     "Weeds are flowers too, once you get to know them.",
     "We must learn to live together as brothers or perish together as fools.",

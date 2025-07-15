@@ -1,9 +1,9 @@
 # Quote of the Day
 
 <!-- QUOTE_START -->
-> Not all those who wander are lost.
+> Don't listen to the person who has the answers; listen to the person who has the questions.
 >
-> — J.R.R. Tolkien
+> — Albert Einstein
 
 Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a>
 <!-- QUOTE_END -->
