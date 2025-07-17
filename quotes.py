@@ -1,4 +1,5 @@
 quotes = [
+    "You're only given a little spark of madness. You mustn't lose it.",
     "The strength of a wall is neither greater nor less than the courage of the men who defend it. ",
     "Don't listen to the person who has the answers; listen to the person who has the questions.",
     "Not all those who wander are lost.",
