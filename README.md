@@ -1,9 +1,9 @@
 # Quote of the Day
 
 <!-- QUOTE_START -->
-> You're only given a little spark of madness. You mustn't lose it.
+> To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.
 >
-> — Robin Williams
+> — Ralph Waldo Emerson
 
 Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a>
 <!-- QUOTE_END -->
