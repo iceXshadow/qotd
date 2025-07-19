@@ -1,9 +1,9 @@
 # Quote of the Day
 
 <!-- QUOTE_START -->
-> To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.
+> When you believe in a thing, believe in it all the way, implicitly and unquestionable.
 >
-> — Ralph Waldo Emerson
+> — Walt Disney
 
 Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a>
 <!-- QUOTE_END -->
