@@ -1,4 +1,5 @@
 quotes = [
+    "You are what you believe yourself to be.",
     "When you believe in a thing, believe in it all the way, implicitly and unquestionable.",
     "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.",
     "You're only given a little spark of madness. You mustn't lose it.",
