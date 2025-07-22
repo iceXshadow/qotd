@@ -1,9 +1,9 @@
 # Quote of the Day
 
 <!-- QUOTE_START -->
-> It's better to dance than to march through life.
+> Until you change how you get things done, you'll never know what works best.
 >
-> — Yoko Ono
+> — Roy T. Bennett
 
 Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a>
 <!-- QUOTE_END -->

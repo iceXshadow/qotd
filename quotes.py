@@ -1,4 +1,5 @@
 quotes = [
+    "Until you change how you get things done, you'll never know what works best.",
     "It's better to dance than to march through life.",
     "You are what you believe yourself to be.",
     "When you believe in a thing, believe in it all the way, implicitly and unquestionable.",
