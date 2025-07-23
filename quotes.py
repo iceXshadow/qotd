@@ -1,4 +1,5 @@
 quotes = [
+    "Be thankful for everything that happens in your life; it's all an experience.",
     "Until you change how you get things done, you'll never know what works best.",
     "It's better to dance than to march through life.",
     "You are what you believe yourself to be.",

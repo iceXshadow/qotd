@@ -1,7 +1,7 @@
 # Quote of the Day
 
 <!-- QUOTE_START -->
-> Until you change how you get things done, you'll never know what works best.
+> Be thankful for everything that happens in your life; it's all an experience.
 >
 > — Roy T. Bennett
 
