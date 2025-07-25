@@ -1,9 +1,9 @@
 # Quote of the Day
 
 <!-- QUOTE_START -->
-> Whatever you decide to do, make sure it makes you happy.
+> Wishing to be friends is quick work, but friendship is a slow ripening fruit.
 >
-> — Paulo Coelho
+> — Aristotle
 
 Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a>
 <!-- QUOTE_END -->
