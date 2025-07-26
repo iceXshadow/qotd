@@ -1,9 +1,9 @@
 # Quote of the Day
 
 <!-- QUOTE_START -->
-> Wishing to be friends is quick work, but friendship is a slow ripening fruit.
+> Absorb what is useful, discard what is useless and add what is specifically your own.  
 >
-> — Aristotle
+> — Bruce Lee
 
 Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a>
 <!-- QUOTE_END -->

@@ -1,4 +1,5 @@
 quotes = [
+    "Absorb what is useful, discard what is useless and add what is specifically your own.  ",
     "Wishing to be friends is quick work, but friendship is a slow ripening fruit.",
     "Whatever you decide to do, make sure it makes you happy.",
     "Be thankful for everything that happens in your life; it's all an experience.",
