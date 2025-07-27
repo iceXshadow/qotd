@@ -1,9 +1,9 @@
 # Quote of the Day
 
 <!-- QUOTE_START -->
-> Absorb what is useful, discard what is useless and add what is specifically your own.  
+> Your gift is something that you can do innately better than anything else.
 >
-> — Bruce Lee
+> — Steve Harvey
 
 Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a>
 <!-- QUOTE_END -->
