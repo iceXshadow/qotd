@@ -1,9 +1,9 @@
 # Quote of the Day
 
 <!-- QUOTE_START -->
-> Your gift is something that you can do innately better than anything else.
+> Decide what your truth is. Then live it.
 >
-> — Steve Harvey
+> — Kamal Ravikant
 
 Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a>
 <!-- QUOTE_END -->

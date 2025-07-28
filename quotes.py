@@ -1,4 +1,5 @@
 quotes = [
+    "Decide what your truth is. Then live it.",
     "Your gift is something that you can do innately better than anything else.",
     "Absorb what is useful, discard what is useless and add what is specifically your own.  ",
     "Wishing to be friends is quick work, but friendship is a slow ripening fruit.",
