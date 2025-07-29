@@ -1,4 +1,5 @@
 quotes = [
+    "If it entertains you now but will bore you someday, it's a distraction. Keep looking.",
     "Decide what your truth is. Then live it.",
     "Your gift is something that you can do innately better than anything else.",
     "Absorb what is useful, discard what is useless and add what is specifically your own.  ",
