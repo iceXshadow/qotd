@@ -1,4 +1,5 @@
 quotes = [
+    "Be happy now, without reason - or you never will be at all.",
     "If it entertains you now but will bore you someday, it's a distraction. Keep looking.",
     "Decide what your truth is. Then live it.",
     "Your gift is something that you can do innately better than anything else.",

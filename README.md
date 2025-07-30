@@ -1,9 +1,9 @@
 # Quote of the Day
 
 <!-- QUOTE_START -->
-> If it entertains you now but will bore you someday, it's a distraction. Keep looking.
+> Be happy now, without reason - or you never will be at all.
 >
-> — Naval Ravikant
+> — Dan Millman
 
 Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a>
 <!-- QUOTE_END -->
