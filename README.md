@@ -1,9 +1,9 @@
 # Quote of the Day
 
 <!-- QUOTE_START -->
-> Be happy now, without reason - or you never will be at all.
+> Education breeds confidence. Confidence breeds hope. Hope breeds peace.
 >
-> — Dan Millman
+> — Confucius
 
 Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a>
 <!-- QUOTE_END -->
