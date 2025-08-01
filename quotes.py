@@ -1,4 +1,5 @@
 quotes = [
+    "Our anxiety does not empty tomorrow of its sorrows, but only empties today of its strengths.",
     "Education breeds confidence. Confidence breeds hope. Hope breeds peace.",
     "Be happy now, without reason - or you never will be at all.",
     "If it entertains you now but will bore you someday, it's a distraction. Keep looking.",
