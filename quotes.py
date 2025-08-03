@@ -1,4 +1,5 @@
 quotes = [
+    "If you want to be successful, you have to jump, there's no way around it.",
     "We will now discuss in a little more detail the Struggle for Existence.",
     "Our anxiety does not empty tomorrow of its sorrows, but only empties today of its strengths.",
     "Education breeds confidence. Confidence breeds hope. Hope breeds peace.",
