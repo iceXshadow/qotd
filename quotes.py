@@ -1,4 +1,5 @@
 quotes = [
+    "When you repeat a mistake, it is not a mistake anymore: it is a decision.",
     "If you want to be successful, you have to jump, there's no way around it.",
     "We will now discuss in a little more detail the Struggle for Existence.",
     "Our anxiety does not empty tomorrow of its sorrows, but only empties today of its strengths.",

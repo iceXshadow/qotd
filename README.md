@@ -1,9 +1,9 @@
 # Quote of the Day
 
 <!-- QUOTE_START -->
-> If you want to be successful, you have to jump, there's no way around it.
+> When you repeat a mistake, it is not a mistake anymore: it is a decision.
 >
-> — Steve Harvey
+> — Paulo Coelho
 
 Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a>
 <!-- QUOTE_END -->
