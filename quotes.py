@@ -1,4 +1,5 @@
 quotes = [
+    "It is the mark of an educated mind to be able to entertain a thought without accepting it.",
     "When you repeat a mistake, it is not a mistake anymore: it is a decision.",
     "If you want to be successful, you have to jump, there's no way around it.",
     "We will now discuss in a little more detail the Struggle for Existence.",
