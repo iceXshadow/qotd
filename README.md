@@ -1,9 +1,9 @@
 # Quote of the Day
 
 <!-- QUOTE_START -->
-> Longevity is a fleeting moment that lasts forever.
+> As a man thinketh in his heart, so shall he be.
 >
-> — Vidal Sassoon
+> — James Allen
 
 Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a>
 <!-- QUOTE_END -->

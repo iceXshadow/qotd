@@ -1,4 +1,5 @@
 quotes = [
+    "As a man thinketh in his heart, so shall he be.",
     "Longevity is a fleeting moment that lasts forever.",
     "It is the mark of an educated mind to be able to entertain a thought without accepting it.",
     "When you repeat a mistake, it is not a mistake anymore: it is a decision.",
