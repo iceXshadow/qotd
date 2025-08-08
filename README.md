@@ -1,9 +1,9 @@
 # Quote of the Day
 
 <!-- QUOTE_START -->
-> As a man thinketh in his heart, so shall he be.
+> If the happiness and prosperity of other people depend on you, you have nothing to fear anymore.
 >
-> — James Allen
+> — Robert Greene
 
 Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a>
 <!-- QUOTE_END -->

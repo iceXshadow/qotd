@@ -1,4 +1,5 @@
 quotes = [
+    "If the happiness and prosperity of other people depend on you, you have nothing to fear anymore.",
     "As a man thinketh in his heart, so shall he be.",
     "Longevity is a fleeting moment that lasts forever.",
     "It is the mark of an educated mind to be able to entertain a thought without accepting it.",
