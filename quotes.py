@@ -1,4 +1,5 @@
 quotes = [
+    "Life is ten percent what you experience and ninety percent how you respond to it.",
     "Life is but one dream flowing into another.",
     "None but ourselves can free our minds.",
     "If the happiness and prosperity of other people depend on you, you have nothing to fear anymore.",
