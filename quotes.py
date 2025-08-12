@@ -1,4 +1,5 @@
 quotes = [
+    "Don't be pushed by your problems; be led by your dreams.",
     "Life is ten percent what you experience and ninety percent how you respond to it.",
     "Life is but one dream flowing into another.",
     "None but ourselves can free our minds.",

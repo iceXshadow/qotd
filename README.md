@@ -1,7 +1,7 @@
 # Quote of the Day
 
 <!-- QUOTE_START -->
-> Life is ten percent what you experience and ninety percent how you respond to it.
+> Don't be pushed by your problems; be led by your dreams.
 >
 > — Unknown
 
