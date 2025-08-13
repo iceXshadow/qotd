@@ -1,9 +1,9 @@
 # Quote of the Day
 
 <!-- QUOTE_START -->
-> Don't be pushed by your problems; be led by your dreams.
+> The day is for honest men, the night for thieves.
 >
-> — Unknown
+> — Euripides
 
 Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a>
 <!-- QUOTE_END -->
