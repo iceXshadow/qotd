@@ -1,4 +1,5 @@
 quotes = [
+    "You cannot push anyone up a ladder unless he is willing to climb a little himself.",
     "The day is for honest men, the night for thieves.",
     "Don't be pushed by your problems; be led by your dreams.",
     "Life is ten percent what you experience and ninety percent how you respond to it.",
