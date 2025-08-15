@@ -1,9 +1,9 @@
 # Quote of the Day
 
 <!-- QUOTE_START -->
-> You cannot push anyone up a ladder unless he is willing to climb a little himself.
+> One's best success comes after their greatest disappointments.
 >
-> — Andrew Carnegie
+> — Henry Ward Beecher
 
 Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a>
 <!-- QUOTE_END -->
