@@ -1,4 +1,5 @@
 quotes = [
+    "People who avoid failure also avoid success.",
     "There are people who have money and people who are rich.",
     "One's best success comes after their greatest disappointments.",
     "You cannot push anyone up a ladder unless he is willing to climb a little himself.",
