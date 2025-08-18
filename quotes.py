@@ -1,4 +1,5 @@
 quotes = [
+    "Be regular and orderly in your life, so that you may be violent and original in your work.",
     "People who avoid failure also avoid success.",
     "There are people who have money and people who are rich.",
     "One's best success comes after their greatest disappointments.",
