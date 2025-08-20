@@ -1,4 +1,5 @@
 quotes = [
+    "The scariest monsters are the ones that lurk within our souls.",
     "It is not the knowing that is difficult, but the doing. ",
     "Be regular and orderly in your life, so that you may be violent and original in your work.",
     "People who avoid failure also avoid success.",
