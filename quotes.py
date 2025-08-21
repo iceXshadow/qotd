@@ -1,4 +1,5 @@
 quotes = [
+    "When you view failure as feedback, you get more done. When you view failure as a finality, you get nothing done.",
     "The scariest monsters are the ones that lurk within our souls.",
     "It is not the knowing that is difficult, but the doing. ",
     "Be regular and orderly in your life, so that you may be violent and original in your work.",
