@@ -1,4 +1,5 @@
 quotes = [
+    "Success is often achieved by those who don't know that failure is inevitable.",
     "When you view failure as feedback, you get more done. When you view failure as a finality, you get nothing done.",
     "The scariest monsters are the ones that lurk within our souls.",
     "It is not the knowing that is difficult, but the doing. ",
