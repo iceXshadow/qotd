@@ -1,9 +1,9 @@
 # Quote of the Day
 
 <!-- QUOTE_START -->
-> Success is often achieved by those who don't know that failure is inevitable.
+> Either get busy living or get busy dying.
 >
-> — Coco Chanel
+> — Stephen King
 
 Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a>
 <!-- QUOTE_END -->
