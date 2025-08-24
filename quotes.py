@@ -1,4 +1,5 @@
 quotes = [
+    "We are all here for some special reason.",
     "Either get busy living or get busy dying.",
     "Success is often achieved by those who don't know that failure is inevitable.",
     "When you view failure as feedback, you get more done. When you view failure as a finality, you get nothing done.",

@@ -1,9 +1,9 @@
 # Quote of the Day
 
 <!-- QUOTE_START -->
-> Either get busy living or get busy dying.
+> We are all here for some special reason.
 >
-> — Stephen King
+> — Robin Sharma
 
 Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a>
 <!-- QUOTE_END -->
