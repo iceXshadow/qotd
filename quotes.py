@@ -1,4 +1,5 @@
 quotes = [
+    "Others can stop you temporarily - you are the only one who can do it permanently.",
     "Don't wish it were easier, wish you were better.",
     "We are all here for some special reason.",
     "Either get busy living or get busy dying.",

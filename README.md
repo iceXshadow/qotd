@@ -1,9 +1,9 @@
 # Quote of the Day
 
 <!-- QUOTE_START -->
-> Don't wish it were easier, wish you were better.
+> Others can stop you temporarily - you are the only one who can do it permanently.
 >
-> — Jim Rohn
+> — Zig Ziglar
 
 Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a>
 <!-- QUOTE_END -->
