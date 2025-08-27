@@ -1,9 +1,9 @@
 # Quote of the Day
 
 <!-- QUOTE_START -->
-> Others can stop you temporarily - you are the only one who can do it permanently.
+> Big people don't make people feel small.
 >
-> — Zig Ziglar
+> — Robin Sharma
 
 Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a>
 <!-- QUOTE_END -->
