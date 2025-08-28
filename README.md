@@ -1,9 +1,9 @@
 # Quote of the Day
 
 <!-- QUOTE_START -->
-> Big people don't make people feel small.
+> Perseverance and spirit have done wonders in all ages. 
 >
-> — Robin Sharma
+> — George Washington
 
 Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a>
 <!-- QUOTE_END -->
