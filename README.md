@@ -1,9 +1,9 @@
 # Quote of the Day
 
 <!-- QUOTE_START -->
-> Perseverance and spirit have done wonders in all ages. 
+> Victory is always possible for the person who refuses to stop fighting.
 >
-> — George Washington
+> — Napoleon Hill
 
 Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a>
 <!-- QUOTE_END -->

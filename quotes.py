@@ -1,4 +1,5 @@
 quotes = [
+    "Victory is always possible for the person who refuses to stop fighting.",
     "Perseverance and spirit have done wonders in all ages. ",
     "Big people don't make people feel small.",
     "Others can stop you temporarily - you are the only one who can do it permanently.",
