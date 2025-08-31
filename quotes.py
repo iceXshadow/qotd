@@ -1,4 +1,5 @@
 quotes = [
+    "Everyone must choose one of two pains: The pain of discipline or the pain of regret.",
     "Many of life's failures are people who did not realize how close they were to success when they gave up.",
     "Victory is always possible for the person who refuses to stop fighting.",
     "Perseverance and spirit have done wonders in all ages. ",
