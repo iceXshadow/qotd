@@ -1,9 +1,9 @@
 # Quote of the Day
 
 <!-- QUOTE_START -->
-> Everyone must choose one of two pains: The pain of discipline or the pain of regret.
+> You have power over your mind - not outside events. Realize this, and you will find strength.
 >
-> — Jim Rohn
+> — Marcus Aurelius
 
 Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a>
 <!-- QUOTE_END -->
