@@ -1,4 +1,5 @@
 quotes = [
+    "What you seek is seeking you.",
     "You have power over your mind - not outside events. Realize this, and you will find strength.",
     "Everyone must choose one of two pains: The pain of discipline or the pain of regret.",
     "Many of life's failures are people who did not realize how close they were to success when they gave up.",
