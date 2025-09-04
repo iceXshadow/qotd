@@ -1,4 +1,5 @@
 quotes = [
+    "The Art of Peace begins with you.",
     "Life is love and love is life.",
     "What you seek is seeking you.",
     "You have power over your mind - not outside events. Realize this, and you will find strength.",

@@ -1,9 +1,9 @@
 # Quote of the Day
 
 <!-- QUOTE_START -->
-> Life is love and love is life.
+> The Art of Peace begins with you.
 >
-> — Elvis Presley
+> — Morihei Ueshiba
 
 Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a>
 <!-- QUOTE_END -->
