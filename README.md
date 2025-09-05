@@ -1,9 +1,9 @@
 # Quote of the Day
 
 <!-- QUOTE_START -->
-> The Art of Peace begins with you.
+> It is better to offer no excuse than a bad one. 
 >
-> — Morihei Ueshiba
+> — George Washington
 
 Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a>
 <!-- QUOTE_END -->

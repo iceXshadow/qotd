@@ -1,4 +1,5 @@
 quotes = [
+    "It is better to offer no excuse than a bad one. ",
     "The Art of Peace begins with you.",
     "Life is love and love is life.",
     "What you seek is seeking you.",
