@@ -1,4 +1,5 @@
 quotes = [
+    "You must live in the present, launch yourself on every wave, find your eternity in each moment. Fools stand on their island of opportunities and look toward another land. There is no other land; there is no other life but this.",
     "It is better to offer no excuse than a bad one. ",
     "The Art of Peace begins with you.",
     "Life is love and love is life.",
