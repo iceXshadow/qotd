@@ -1,9 +1,9 @@
 # Quote of the Day
 
 <!-- QUOTE_START -->
-> The world is open for play, everything and everybody is mockable in a wonderful way.
+> Don't let what you cannot do interfere with what you can do.
 >
-> — Robin Williams
+> — John Wooden
 
 Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a>
 <!-- QUOTE_END -->
