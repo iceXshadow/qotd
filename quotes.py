@@ -1,4 +1,5 @@
 quotes = [
+    "Be a master of change rather than a victim of change.",
     "Don't let what you cannot do interfere with what you can do.",
     "The world is open for play, everything and everybody is mockable in a wonderful way.",
     "The way to change others' minds is with affection, and not anger.",
