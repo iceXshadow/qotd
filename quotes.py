@@ -1,4 +1,5 @@
 quotes = [
+    "Success is going from failure to failure without losing your enthusiasm",
     "Be a master of change rather than a victim of change.",
     "Don't let what you cannot do interfere with what you can do.",
     "The world is open for play, everything and everybody is mockable in a wonderful way.",

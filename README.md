@@ -1,9 +1,9 @@
 # Quote of the Day
 
 <!-- QUOTE_START -->
-> Be a master of change rather than a victim of change.
+> Success is going from failure to failure without losing your enthusiasm
 >
-> — Brian Tracy
+> — Winston Churchill
 
 Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a>
 <!-- QUOTE_END -->
