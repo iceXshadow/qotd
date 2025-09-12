@@ -1,9 +1,9 @@
 # Quote of the Day
 
 <!-- QUOTE_START -->
-> Success is going from failure to failure without losing your enthusiasm
+> The more knowledge you have, the more you're free to rely on your instincts.
 >
-> — Winston Churchill
+> — Arnold Schwarzenegger
 
 Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a>
 <!-- QUOTE_END -->
