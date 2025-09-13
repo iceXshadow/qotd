@@ -1,4 +1,5 @@
 quotes = [
+    "To avoid criticism, do nothing, say nothing, and be nothing.",
     "The more knowledge you have, the more you're free to rely on your instincts.",
     "Success is going from failure to failure without losing your enthusiasm",
     "Be a master of change rather than a victim of change.",
