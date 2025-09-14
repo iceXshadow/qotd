@@ -1,9 +1,9 @@
 # Quote of the Day
 
 <!-- QUOTE_START -->
-> To avoid criticism, do nothing, say nothing, and be nothing.
+> There can be no greater gift than that of giving one's time and energy to help others without expecting anything in return.
 >
-> — Elbert Hubbard
+> — Nelson Mandela
 
 Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a>
 <!-- QUOTE_END -->

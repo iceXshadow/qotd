@@ -1,4 +1,5 @@
 quotes = [
+    "There can be no greater gift than that of giving one's time and energy to help others without expecting anything in return.",
     "To avoid criticism, do nothing, say nothing, and be nothing.",
     "The more knowledge you have, the more you're free to rely on your instincts.",
     "Success is going from failure to failure without losing your enthusiasm",
