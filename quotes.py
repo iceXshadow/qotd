@@ -1,4 +1,5 @@
 quotes = [
+    "Nothing you do is going to matter that much in the long run. Don't take yourself so seriously.",
     "There can be no greater gift than that of giving one's time and energy to help others without expecting anything in return.",
     "To avoid criticism, do nothing, say nothing, and be nothing.",
     "The more knowledge you have, the more you're free to rely on your instincts.",
