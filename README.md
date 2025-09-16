@@ -1,9 +1,9 @@
 # Quote of the Day
 
 <!-- QUOTE_START -->
-> Nothing you do is going to matter that much in the long run. Don't take yourself so seriously.
+> People are doing the best that they can from their own level of consciousness.
 >
-> — Naval Ravikant
+> — Deepak Chopra
 
 Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a>
 <!-- QUOTE_END -->
