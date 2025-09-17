@@ -1,9 +1,9 @@
 # Quote of the Day
 
 <!-- QUOTE_START -->
-> People are doing the best that they can from their own level of consciousness.
+> Lack of emotion causes lack of progress and lack of motivation.
 >
-> — Deepak Chopra
+> — Tony Robbins
 
 Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a>
 <!-- QUOTE_END -->

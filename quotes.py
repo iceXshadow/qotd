@@ -1,4 +1,5 @@
 quotes = [
+    "Lack of emotion causes lack of progress and lack of motivation.",
     "People are doing the best that they can from their own level of consciousness.",
     "Nothing you do is going to matter that much in the long run. Don't take yourself so seriously.",
     "There can be no greater gift than that of giving one's time and energy to help others without expecting anything in return.",
