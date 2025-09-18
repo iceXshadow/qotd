@@ -1,4 +1,5 @@
 quotes = [
+    "Don't live the same year 75 times and call it a life.",
     "Lack of emotion causes lack of progress and lack of motivation.",
     "People are doing the best that they can from their own level of consciousness.",
     "Nothing you do is going to matter that much in the long run. Don't take yourself so seriously.",

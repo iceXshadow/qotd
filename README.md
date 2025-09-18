@@ -1,9 +1,9 @@
 # Quote of the Day
 
 <!-- QUOTE_START -->
-> Lack of emotion causes lack of progress and lack of motivation.
+> Don't live the same year 75 times and call it a life.
 >
-> — Tony Robbins
+> — Robin Sharma
 
 Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a>
 <!-- QUOTE_END -->
