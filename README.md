@@ -1,9 +1,9 @@
 # Quote of the Day
 
 <!-- QUOTE_START -->
-> Don't live the same year 75 times and call it a life.
+> Peace is letting it be. Letting life flow, letting emotions flow through you.
 >
-> — Robin Sharma
+> — Kamal Ravikant
 
 Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a>
 <!-- QUOTE_END -->
