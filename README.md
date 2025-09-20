@@ -1,9 +1,9 @@
 # Quote of the Day
 
 <!-- QUOTE_START -->
-> Peace is letting it be. Letting life flow, letting emotions flow through you.
+> A person is only by the thoughts that he chooses.
 >
-> — Kamal Ravikant
+> — James Allen
 
 Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a>
 <!-- QUOTE_END -->

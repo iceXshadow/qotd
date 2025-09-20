@@ -1,4 +1,5 @@
 quotes = [
+    "A person is only by the thoughts that he chooses.",
     "Peace is letting it be. Letting life flow, letting emotions flow through you.",
     "Don't live the same year 75 times and call it a life.",
     "Lack of emotion causes lack of progress and lack of motivation.",
