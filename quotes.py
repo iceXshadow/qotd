@@ -1,4 +1,5 @@
 quotes = [
+    "Believe and you're halfway there.",
     "We must learn to live together as brothers or perish together as fools.",
     "A person is only by the thoughts that he chooses.",
     "Peace is letting it be. Letting life flow, letting emotions flow through you.",
