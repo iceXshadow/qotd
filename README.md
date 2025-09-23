@@ -1,9 +1,9 @@
 # Quote of the Day
 
 <!-- QUOTE_START -->
-> Believe and you're halfway there.
+> You don't need a weatherman to know which way the wind blows.
 >
-> — Harry S. Truman
+> — Bob Dylan
 
 Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a>
 <!-- QUOTE_END -->

@@ -1,4 +1,5 @@
 quotes = [
+    "You don't need a weatherman to know which way the wind blows.",
     "Believe and you're halfway there.",
     "We must learn to live together as brothers or perish together as fools.",
     "A person is only by the thoughts that he chooses.",
