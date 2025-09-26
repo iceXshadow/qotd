@@ -1,4 +1,5 @@
 quotes = [
+    "The way out is in.",
     "The temptation to give up is strongest just before victory.",
     "Everybody by your side ain't on your side.",
     "You don't need a weatherman to know which way the wind blows.",
