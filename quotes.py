@@ -1,4 +1,5 @@
 quotes = [
+    "There is nothing quite so tragic as a young cynic.",
     "The way out is in.",
     "The temptation to give up is strongest just before victory.",
     "Everybody by your side ain't on your side.",

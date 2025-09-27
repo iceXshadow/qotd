@@ -1,9 +1,9 @@
 # Quote of the Day
 
 <!-- QUOTE_START -->
-> The way out is in.
+> There is nothing quite so tragic as a young cynic.
 >
-> — Thich Nhat Hanh
+> — Maya Angelou
 
 Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a>
 <!-- QUOTE_END -->
