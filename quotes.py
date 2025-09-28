@@ -1,4 +1,5 @@
 quotes = [
+    "Supreme excellence consists of breaking the enemy's resistance without fighting.",
     "There is nothing quite so tragic as a young cynic.",
     "The way out is in.",
     "The temptation to give up is strongest just before victory.",
