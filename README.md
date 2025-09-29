@@ -1,9 +1,9 @@
 # Quote of the Day
 
 <!-- QUOTE_START -->
-> Supreme excellence consists of breaking the enemy's resistance without fighting.
+> We must not be afraid of dreaming the seemingly impossible if we want the seemingly impossible to become a reality.
 >
-> — Sun Tzu
+> — Vaclav Havel
 
 Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a>
 <!-- QUOTE_END -->

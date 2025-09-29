@@ -1,4 +1,5 @@
 quotes = [
+    "We must not be afraid of dreaming the seemingly impossible if we want the seemingly impossible to become a reality.",
     "Supreme excellence consists of breaking the enemy's resistance without fighting.",
     "There is nothing quite so tragic as a young cynic.",
     "The way out is in.",
