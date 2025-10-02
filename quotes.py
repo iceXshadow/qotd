@@ -1,4 +1,5 @@
 quotes = [
+    "The less you respond to negative people, the more positive your life will become.",
     "The source of a true smile is an awakened mind.",
     "The first step toward getting somewhere is to decide that you are not going to stay where you are.",
     "We must not be afraid of dreaming the seemingly impossible if we want the seemingly impossible to become a reality.",

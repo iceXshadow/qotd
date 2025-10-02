@@ -1,9 +1,9 @@
 # Quote of the Day
 
 <!-- QUOTE_START -->
-> The source of a true smile is an awakened mind.
+> The less you respond to negative people, the more positive your life will become.
 >
-> — Thich Nhat Hanh
+> — Paulo Coelho
 
 Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a>
 <!-- QUOTE_END -->
