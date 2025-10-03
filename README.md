@@ -1,9 +1,9 @@
 # Quote of the Day
 
 <!-- QUOTE_START -->
-> The less you respond to negative people, the more positive your life will become.
+> Be content with what you have, rejoice in the way things are. When you realize there is nothing lacking, the whole world belongs to you.
 >
-> — Paulo Coelho
+> — Lao Tzu
 
 Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a>
 <!-- QUOTE_END -->
