@@ -1,7 +1,7 @@
 # Quote of the Day
 
 <!-- QUOTE_START -->
-> Be content with what you have, rejoice in the way things are. When you realize there is nothing lacking, the whole world belongs to you.
+> Nature does not hurry, yet everything is accomplished.
 >
 > — Lao Tzu
 

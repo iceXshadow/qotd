@@ -1,4 +1,5 @@
 quotes = [
+    "Nature does not hurry, yet everything is accomplished.",
     "Be content with what you have, rejoice in the way things are. When you realize there is nothing lacking, the whole world belongs to you.",
     "The less you respond to negative people, the more positive your life will become.",
     "The source of a true smile is an awakened mind.",
