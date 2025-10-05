@@ -1,9 +1,9 @@
 # Quote of the Day
 
 <!-- QUOTE_START -->
-> Nature does not hurry, yet everything is accomplished.
+> Go as far as you can see and you will see further.  
 >
-> — Lao Tzu
+> — Zig Ziglar
 
 Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a>
 <!-- QUOTE_END -->
