@@ -1,9 +1,9 @@
 # Quote of the Day
 
 <!-- QUOTE_START -->
-> Have the courage to follow your heart and intuition. They somehow know what you truly want to become.
+> Some people want it to happen, some wish it would happen, others make it happen.
 >
-> — Steve Jobs
+> — Michael Jordan
 
 Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a>
 <!-- QUOTE_END -->
