@@ -1,4 +1,5 @@
 quotes = [
+    "Don't let your mind stop you.",
     "Some people want it to happen, some wish it would happen, others make it happen.",
     "Have the courage to follow your heart and intuition. They somehow know what you truly want to become.",
     "Go as far as you can see and you will see further.  ",
