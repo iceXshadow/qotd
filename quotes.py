@@ -1,4 +1,5 @@
 quotes = [
+    "A wise man will be master of his mind, a fool will be its slave.",
     "Don't let your mind stop you.",
     "Some people want it to happen, some wish it would happen, others make it happen.",
     "Have the courage to follow your heart and intuition. They somehow know what you truly want to become.",

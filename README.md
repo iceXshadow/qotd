@@ -1,9 +1,9 @@
 # Quote of the Day
 
 <!-- QUOTE_START -->
-> Don't let your mind stop you.
+> A wise man will be master of his mind, a fool will be its slave.
 >
-> — Steve Harvey
+> — Publilius Syrus
 
 Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a>
 <!-- QUOTE_END -->
