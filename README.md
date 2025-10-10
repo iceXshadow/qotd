@@ -1,9 +1,9 @@
 # Quote of the Day
 
 <!-- QUOTE_START -->
-> A wise man will be master of his mind, a fool will be its slave.
+> The future belongs to those who believe in the beauty of their dreams.
 >
-> — Publilius Syrus
+> — Eleanor Roosevelt
 
 Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a>
 <!-- QUOTE_END -->
