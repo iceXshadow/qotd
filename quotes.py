@@ -1,4 +1,5 @@
 quotes = [
+    "As soon as you trust yourself, you will know how to live.",
     "The future belongs to those who believe in the beauty of their dreams.",
     "A wise man will be master of his mind, a fool will be its slave.",
     "Don't let your mind stop you.",

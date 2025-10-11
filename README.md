@@ -1,9 +1,9 @@
 # Quote of the Day
 
 <!-- QUOTE_START -->
-> The future belongs to those who believe in the beauty of their dreams.
+> As soon as you trust yourself, you will know how to live.
 >
-> — Eleanor Roosevelt
+> — Johann Wolfgang von Goethe
 
 Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a>
 <!-- QUOTE_END -->
