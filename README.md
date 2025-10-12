@@ -1,9 +1,9 @@
 # Quote of the Day
 
 <!-- QUOTE_START -->
-> As soon as you trust yourself, you will know how to live.
+> It is indeed a radical act of love just to sit down and be quiet for a time by yourself.
 >
-> — Johann Wolfgang von Goethe
+> — Jon Kabat-Zinn
 
 Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a>
 <!-- QUOTE_END -->
