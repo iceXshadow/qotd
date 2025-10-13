@@ -1,4 +1,5 @@
 quotes = [
+    "Chase your passion, not your pension. ",
     "It is indeed a radical act of love just to sit down and be quiet for a time by yourself.",
     "As soon as you trust yourself, you will know how to live.",
     "The future belongs to those who believe in the beauty of their dreams.",
