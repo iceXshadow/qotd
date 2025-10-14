@@ -1,4 +1,5 @@
 quotes = [
+    "There is no failure except in no longer trying. There is no defeat except from within, no insurmountable barrier except our own inherent weakness of purpose.",
     "Chase your passion, not your pension. ",
     "It is indeed a radical act of love just to sit down and be quiet for a time by yourself.",
     "As soon as you trust yourself, you will know how to live.",
