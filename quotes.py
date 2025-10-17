@@ -1,4 +1,5 @@
 quotes = [
+    "Love never keeps a man from pursuing his destiny.",
     "When you want something in life, you just gotta reach out and grab it.",
     "If you done it, it ain't bragging.",
     "There is no failure except in no longer trying. There is no defeat except from within, no insurmountable barrier except our own inherent weakness of purpose.",

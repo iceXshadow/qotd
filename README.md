@@ -1,9 +1,9 @@
 # Quote of the Day
 
 <!-- QUOTE_START -->
-> When you want something in life, you just gotta reach out and grab it.
+> Love never keeps a man from pursuing his destiny.
 >
-> — Christopher McCandless
+> — Paulo Coelho
 
 Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a>
 <!-- QUOTE_END -->
