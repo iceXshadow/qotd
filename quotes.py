@@ -1,4 +1,5 @@
 quotes = [
+    "To handle yourself, use your head; to handle others, use your heart.",
     "Love never keeps a man from pursuing his destiny.",
     "When you want something in life, you just gotta reach out and grab it.",
     "If you done it, it ain't bragging.",
