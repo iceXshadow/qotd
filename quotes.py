@@ -1,4 +1,5 @@
 quotes = [
+    "It is impossible for a man to learn what he thinks he already knows.",
     "To handle yourself, use your head; to handle others, use your heart.",
     "Love never keeps a man from pursuing his destiny.",
     "When you want something in life, you just gotta reach out and grab it.",
