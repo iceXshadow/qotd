@@ -1,9 +1,9 @@
 # Quote of the Day
 
 <!-- QUOTE_START -->
-> It is impossible for a man to learn what he thinks he already knows.
+> Always remember that you are absolutely unique. Just like everyone else. 
 >
-> — Epictetus
+> — Margaret Mead
 
 Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a>
 <!-- QUOTE_END -->

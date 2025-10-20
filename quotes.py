@@ -1,4 +1,5 @@
 quotes = [
+    "Always remember that you are absolutely unique. Just like everyone else. ",
     "It is impossible for a man to learn what he thinks he already knows.",
     "To handle yourself, use your head; to handle others, use your heart.",
     "Love never keeps a man from pursuing his destiny.",
