@@ -1,9 +1,9 @@
 # Quote of the Day
 
 <!-- QUOTE_START -->
-> Always remember that you are absolutely unique. Just like everyone else. 
+> Be where your enemy is not.
 >
-> — Margaret Mead
+> — Sun Tzu
 
 Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a>
 <!-- QUOTE_END -->
