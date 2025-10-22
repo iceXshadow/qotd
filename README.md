@@ -1,9 +1,9 @@
 # Quote of the Day
 
 <!-- QUOTE_START -->
-> Be where your enemy is not.
+> The only way to 'find out if it will work out' is to do it.
 >
-> — Sun Tzu
+> — Simon Sinek
 
 Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a>
 <!-- QUOTE_END -->
