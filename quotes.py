@@ -1,4 +1,5 @@
 quotes = [
+    "Silence is a source of great strength.",
     "The only way to 'find out if it will work out' is to do it.",
     "Be where your enemy is not.",
     "Always remember that you are absolutely unique. Just like everyone else. ",

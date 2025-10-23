@@ -1,9 +1,9 @@
 # Quote of the Day
 
 <!-- QUOTE_START -->
-> The only way to 'find out if it will work out' is to do it.
+> Silence is a source of great strength.
 >
-> — Simon Sinek
+> — Lao Tzu
 
 Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a>
 <!-- QUOTE_END -->
