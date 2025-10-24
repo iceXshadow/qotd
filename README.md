@@ -1,9 +1,9 @@
 # Quote of the Day
 
 <!-- QUOTE_START -->
-> Silence is a source of great strength.
+> Conscience is a dog that does not stop us from passing but that we cannot prevent from barking.
 >
-> — Lao Tzu
+> — Nicolas Chamfort
 
 Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a>
 <!-- QUOTE_END -->
