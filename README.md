@@ -1,9 +1,9 @@
 # Quote of the Day
 
 <!-- QUOTE_START -->
-> Conscience is a dog that does not stop us from passing but that we cannot prevent from barking.
+> Nourish the mind like you would your body. The mind cannot survive on junk food.
 >
-> — Nicolas Chamfort
+> — Brian Tracy
 
 Inspirational quotes provided by <a href="https://zenquotes.io/" target="_blank">ZenQuotes API</a>
 <!-- QUOTE_END -->

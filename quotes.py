@@ -1,4 +1,5 @@
 quotes = [
+    "Nourish the mind like you would your body. The mind cannot survive on junk food.",
     "Conscience is a dog that does not stop us from passing but that we cannot prevent from barking.",
     "Silence is a source of great strength.",
     "The only way to 'find out if it will work out' is to do it.",
