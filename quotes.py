@@ -1,4 +1,5 @@
 quotes = [
+    "There are two primary choices in life: to accept conditions as they exist, or accept the responsibility for changing them.",
     "If you need inspiration, don't do it.",
     "Nourish the mind like you would your body. The mind cannot survive on junk food.",
     "Conscience is a dog that does not stop us from passing but that we cannot prevent from barking.",
