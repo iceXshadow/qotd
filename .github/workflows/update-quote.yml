@@ -1,50 +1,50 @@
-name: Update Quote of the Day
-# Updated schedule to run every minute - refreshed on June 20, 2025
-on:
-  schedule:
-    - cron: '0 0 * * *'  # Every minute
-  workflow_dispatch:  # Allows manual triggering
-jobs:
-  update:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v2
+# name: Update Quote of the Day
+# # Updated schedule to run every minute - refreshed on June 20, 2025
+# on:
+#   schedule:
+#     - cron: '0 0 * * *'  # Every minute
+#   workflow_dispatch:  # Allows manual triggering
+# jobs:
+#   update:
+#     runs-on: ubuntu-latest
+#     steps:
+#       - name: Checkout repository
+#         uses: actions/checkout@v2
 
-      - name: Set up Bun
-        uses: oven-sh/setup-bun@v1
-        with:
-          bun-version: latest
+#       - name: Set up Bun
+#         uses: oven-sh/setup-bun@v1
+#         with:
+#           bun-version: latest
 
-      - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.x'
+#       - name: Set up Python
+#         uses: actions/setup-python@v4
+#         with:
+#           python-version: '3.x'
 
-      - name: Install dependencies
-        run: bun run pip install requests
+#       - name: Install dependencies
+#         run: bun run pip install requests
 
-      - name: Update quote
-        id: update_quote
-        env:
-          MAX_ATTEMPTS: 3
-          DELAY_SECONDS: 10
-        run: |
-          for i in $(seq 1 $MAX_ATTEMPTS); do
-            echo "Attempt $i of $MAX_ATTEMPTS"
-            bun run python update_quote.py && exit 0
-            if [ $i -lt $MAX_ATTEMPTS ]; then
-              echo "Failed, retrying in $DELAY_SECONDS seconds..."
-              sleep $DELAY_SECONDS
-            fi
-          done
-          echo "All attempts failed"
-          exit 1
+#       - name: Update quote
+#         id: update_quote
+#         env:
+#           MAX_ATTEMPTS: 3
+#           DELAY_SECONDS: 10
+#         run: |
+#           for i in $(seq 1 $MAX_ATTEMPTS); do
+#             echo "Attempt $i of $MAX_ATTEMPTS"
+#             bun run python update_quote.py && exit 0
+#             if [ $i -lt $MAX_ATTEMPTS ]; then
+#               echo "Failed, retrying in $DELAY_SECONDS seconds..."
+#               sleep $DELAY_SECONDS
+#             fi
+#           done
+#           echo "All attempts failed"
+#           exit 1
 
-      - name: Commit and push changes
-        run: |
-          git config --global user.name 'iceXshadow'
-          git config --global user.email 'devxicy@gmail.com'
-          git add README.md quotes.py
-          git commit -m "Update quote of the day" || echo "No changes to commit"
-          git push
+#       - name: Commit and push changes
+#         run: |
+#           git config --global user.name 'iceXshadow'
+#           git config --global user.email 'devxicy@gmail.com'
+#           git add README.md quotes.py
+#           git commit -m "Update quote of the day" || echo "No changes to commit"
+#           git push
