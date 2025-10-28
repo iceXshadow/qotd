@@ -1,4 +1,5 @@
 quotes = [
+    "Each path to knowledge involves different rules and these rules are not interchangeable.",
     "There are two primary choices in life: to accept conditions as they exist, or accept the responsibility for changing them.",
     "If you need inspiration, don't do it.",
     "Nourish the mind like you would your body. The mind cannot survive on junk food.",
